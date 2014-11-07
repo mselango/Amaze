@@ -68,7 +68,7 @@
                           <b>New Zealand:</b> <a href="http://www.eway.co.nz/" target="_BLANK">http://www.eway.co.nz/</a><br>
                           <b>UK:</b> <a href="http://www.eway.co.uk/" target="_BLANK">http://www.eway.co.uk/</a><br>
                         </ul>
-                        <p>give us a call:</p>
+                        <p>Or give us a call:</p>
                         <ul>
                           <b>Australia:</b> 1800 10 65 65<br>
                           <b>New Zealand:</b> 0800 392 947<br>
@@ -78,7 +78,6 @@
                 </div>
             </div>
         <div id="footer"></div>
-        
         </div>
     </center>
 </body>
